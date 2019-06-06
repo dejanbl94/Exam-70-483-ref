@@ -5,7 +5,6 @@ namespace FuncDelegateDemo
 {
     public class ExecutionManager
     {
-
         private Func<int> add;
         private Func<int> subtract;
         private Func<int> multiply;
